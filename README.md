@@ -9,6 +9,8 @@ Original Work (2013):
 Modernization (2024):
 - Eve
 - GitHub: yaungwarwar
+- > **Fork Notice**: This is a maintained version of the original autoscan tool by Laurent Ghigonis (P1 Security, 2013).
+
 autscan remembers network parameters (addresses, dns...) and runs a basic
 fingerprinting (traceroute, scan) of the network you are connected to.
 
