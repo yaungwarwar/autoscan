@@ -1,5 +1,14 @@
 ## autoscan - automatic fingerprint of visited networks
+Autoscan Network Fingerprinting Tool
+===================================
 
+Original Work (2013):
+- Laurent Ghigonis (P1 Security)
+- Email: laurent@p1sec.com
+
+Modernization (2024):
+- Eve
+- GitHub: yaungwarwar
 autscan remembers network parameters (addresses, dns...) and runs a basic
 fingerprinting (traceroute, scan) of the network you are connected to.
 
